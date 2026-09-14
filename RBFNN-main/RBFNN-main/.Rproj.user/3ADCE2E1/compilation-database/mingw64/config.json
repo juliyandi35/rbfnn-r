@@ -1,0 +1,13 @@
+{
+    "args": [
+        "-IC:/Users/JULIYA~1/AppData/Local/R/WIN-LI~1/4.2/Rcpp/include",
+        "-DEIGEN_DONT_VECTORIZE",
+        "-nostdinc"
+    ],
+    "pch": "Rcpp",
+    "is_cpp": true,
+    "hash": "168428739616842873981684287398",
+    "compiler": "14695981039346656037",
+    "rversion": "4.2.2",
+    "dbversion": 4
+}
